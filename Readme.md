@@ -29,11 +29,11 @@ This profile is where I share my VLSI coursework, RTL designs, and hardware veri
 
 ## 📂 Featured Repositories
 
-- **[RISC-V-Project](https://www.google.com/search?q=https://github.com/manojreddynv/RISC-V-Project)** → 5-Stage Pipelined RISC-V RV32I Processor with IEEE-754 FPU, Dynamic ALU–FPU Selection, Operand Isolation, and Artix-7 FPGA Implementation
-- **[45nm-SRAM-Controller-Physical-Design](https://www.google.com/search?q=https://github.com/manojreddynv/45nm-SRAM-Controller-Physical-Design)** → 45nm SRAM Controller ASIC Physical Design — Netlist-to-GDSII flow
-- **[Protocols-](https://www.google.com/search?q=https://github.com/manojreddynv/Protocols-)** → Hardware communication protocols designed in Verilog HDL & SystemVerilog with `testbench.sv` verification
-- **[HDLBits-Solutions](https://www.google.com/search?q=https://github.com/manojreddynv/HDLBits-Solutions)** → Verilog HDLBits problem solutions, waveforms, and progress
-- **[system\_verilog\_by\_anmaya\_tech](https://www.google.com/search?q=https://github.com/manojreddynv/system_verilog_by_anmaya_tech)** → SystemVerilog codes, assignments, and simulation results from the Anmaya Technologies workshop
+- **[RISC-V-Project](https://github.com/manojreddynv/RISC-V-Project)** → 5-Stage Pipelined RISC-V RV32I Processor with IEEE-754 FPU, Dynamic ALU–FPU Selection, Operand Isolation, and Artix-7 FPGA Implementation
+- **[45nm-SRAM-Controller-Physical-Design](https://github.com/manojreddynv/45nm-SRAM-Controller-Physical-Design)** → 45nm SRAM Controller ASIC Physical Design — Netlist-to-GDSII flow
+- **[Protocols-](https://github.com/manojreddynv/Protocols-)** → Hardware communication protocols designed in Verilog HDL & SystemVerilog with `testbench.sv` verification
+- **[HDLBits-Solutions](https://github.com/manojreddynv/HDLBits-Solutions)** → Verilog HDLBits problem solutions, waveforms, and progress
+- **[system\_verilog\_by\_anmaya\_tech](https://github.com/manojreddynv/system_verilog_by_anmaya_tech)** → SystemVerilog codes, assignments, and simulation results from the Anmaya Technologies workshop
 
 ---
 
