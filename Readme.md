@@ -39,7 +39,7 @@ This profile is where I share my VLSI coursework, RTL designs, and hardware veri
 
 ## 📈 GitHub Stats
 
-
+[https://github-readme-stats.vercel.app/api?username=manojreddynv&show_icons=true&theme=radical]
 
 ---
 
