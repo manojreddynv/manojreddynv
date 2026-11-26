@@ -40,7 +40,7 @@ This profile is where I share my VLSI coursework, RTL designs, and hardware veri
 ## 📈 GitHub Status
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=manojreddynv&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&border_color=30363D" alt="Manoj's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=manojreddynv&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&border_color=30363D" alt="Manoj's GitHub status" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddynv&layout=compact&theme=transparent&title_color=58A6FF&border_color=30363D" alt="Top Languages" />
 </div>
 
