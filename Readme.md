@@ -49,7 +49,7 @@ This profile is where I share my VLSI coursework, RTL designs, and hardware veri
 ## 🌐 Connect With Me
 
 - 📧 **Email:** [manojreddynv2004@gmail.com](mailto:manojreddynv2004@gmail.com)
-- 💼 **LinkedIn:** [manojreddynv](https://www.google.com/search?q=https://www.linkedin.com/in/manojreddynv)
+- 💼 **LinkedIn:** [manojreddynv](https://www.linkedin.com/in/manojreddynv/)
 - 🎓 **Institution:** Alva's Institute of Engineering and Technology, Moodbidri
 
 ---
