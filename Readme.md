@@ -39,8 +39,14 @@ This profile is where I share my VLSI coursework, RTL designs, and hardware veri
 
 ## 📈 GitHub Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=manojreddynv&show_icons=true&theme=radical" alt="Manoj's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojreddynv&theme=radical" alt="Manoj's GitHub streak" />
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manojreddynv&show_icons=true&theme=radical&hide_border=true" alt="Manoj's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddynv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojreddynv&theme=radical&hide_border=true" alt="Manoj's GitHub streak" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojreddynv&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true" alt="Manoj's Contribution Waveform" />
+</div>
 
 ---
 
