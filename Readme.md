@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Manoj Reddy N V!
 
-🎓 **ECE '27 Final-Year Student** | 💻 **Aspiring VLSI & RTL Design Engineer**
+🎓 **ECE '27 Final-Year Student** | 💻 **Aspiring VLSI & Design Verification Engineer**
 
 I’m passionate about **Digital VLSI**, **RTL Design & Verification**, and **ASIC Physical Design (Netlist-to-GDSII)**, and I’m actively building hardware projects in **Verilog**, **SystemVerilog**, and **FPGA** implementation.  
 This profile is where I share my VLSI coursework, RTL designs, and hardware verification journey.
@@ -12,7 +12,7 @@ This profile is where I share my VLSI coursework, RTL designs, and hardware veri
 | **Domain** | **Skills / Tools** |
 | :--- | :--- |
 | **HDL & Verification** | Verilog, SystemVerilog, RTL Testbenches (`testbench.sv`), Protocol Verification |
-| **EDA Tools** | Xilinx Vivado, Cadence, Synopsys, OpenLANE |
+| **EDA Tools** | Xilinx Vivado, Cadence, EDA Playground, Synopsys, OpenLANE |
 | **VLSI & Hardware** | Digital VLSI, ASIC Physical Design (45nm Netlist-to-GDSII), Artix-7 FPGA |
 | **Programming** | C, C++, PowerShell |
 | **Training & Practice** | NPTEL VLSI Courses, SystemVerilog Workshop (Anmaya Technologies), HDLBits |
