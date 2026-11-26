@@ -40,12 +40,8 @@ This profile is where I share my VLSI coursework, RTL designs, and hardware veri
 ## 📈 GitHub Status
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manojreddynv&show_icons=true&theme=radical&hide_border=true" alt="Manoj's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddynv&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojreddynv&theme=radical&hide_border=true" alt="Manoj's GitHub streak" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojreddynv&bg_color=141321&color=a9fef7&line=fe428e&point=f8d847&area=true&hide_border=true" alt="Manoj's Contribution Waveform" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=manojreddynv&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&border_color=30363D" alt="Manoj's GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojreddynv&layout=compact&theme=transparent&title_color=58A6FF&border_color=30363D" alt="Top Languages" />
 </div>
 
 ---
